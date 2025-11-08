@@ -36,7 +36,7 @@ export default function Home() {
 
           {/* Title */}
           <div className="space-y-3 px-3 sm:px-6">
-            <h1 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-white tracking-wider uppercase drop-shadow-lg">
+            <h1 className="text-xl sm:text-2xl md:text-5xl font-extrabold text-white tracking-wider uppercase drop-shadow-lg">
               Ranjeet Singh
               <span className="block text-base sm:text-sm font-medium text-slate-300 mt-2 normal-case">Best Cricket Expert — Tips, Calls & Live Analysis</span>
             </h1>
